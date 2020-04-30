@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Security</string>
+    <string name="login_detail1">A security enviará um SMS para verificar o seu número de digitado. Insira o código de área e o número do seu telefone.</string>
+    <string name="login_detail2">Tarifas de SMS de sua operadora podem ser aplicadas.</string>
+    <string name="text_detail3">Aguarde o SMS que será enviado automaticamente</string>
+    <string name="check_sms_detail1">Aguarde o SMS que será enviado automaticamente</string>
+    <string name="check_sms_detail2">Por favor certifique que você tem um plano de SMS funcionando. Caso não seja detectado o código automaticamente, digite o código recebido no SMS no campo abaixo:</string>
+    <string name="check_sms_detail3">Sente se e relaxe. Nós avisaremos quando a verificação terminar</string>
+    <string name="toolbar_auth_title">Autenticação</string>
+    <string name="action_filter">Filtrar</string>
+</resources>

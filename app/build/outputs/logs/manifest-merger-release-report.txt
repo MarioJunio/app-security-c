@@ -1,0 +1,209 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/mariomartins/Documents/workspace-Android/SecurityCliente/app/src/main/AndroidManifest.xml:2:1-54:12
+INJECTED from /Users/mariomartins/Documents/workspace-Android/SecurityCliente/app/src/main/AndroidManifest.xml:2:1-54:12
+INJECTED from /Users/mariomartins/Documents/workspace-Android/SecurityCliente/app/src/main/AndroidManifest.xml:2:1-54:12
+INJECTED from /Users/mariomartins/Documents/workspace-Android/SecurityCliente/app/src/main/AndroidManifest.xml:2:1-54:12
+MERGED from [com.android.volley:volley:1.1.1] /Users/mariomartins/.gradle/caches/transforms-1/files-1.1/volley-1.1.1.aar/5d02714166d8b1ec939cf102045be0a1/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/mariomartins/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/7cb87d165e4882b20d14966e9bd15197/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/mariomartins/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/ff46f5c46bfab137eab3a57d07c09d48/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/mariomartins/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/cefc2434f40468a132e3e56dd5c302ee/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/mariomartins/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/8d783f7620c6bd4b06ce209c0fd5e298/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/mariomartins/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/e139c6aaf46e31ccb4b9da3986ffade7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/mariomartins/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/2bc9d41d1c04198ffeeeb04db932eb57/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/mariomartins/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/bb16d61ce924f7999e0755bd59dee928/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/mariomartins/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/29699fe652f7b2bb4b91015295fb25f5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/mariomartins/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/f0a981fa0316df439cadf4bdec8919b2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/mariomartins/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/f9a498e4cd63914f570415e3ab538fd6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/mariomartins/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/4afd10f6e3fc29e5e0863ae9b1ac83de/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/mariomartins/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/f904d48a723a2323cf3818d7ab12bd27/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/mariomartins/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/bed348519aafc428010e9f157c1027fd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/mariomartins/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/35fc3e42b292d81ee3e0b7c56de12d3e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/mariomartins/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/ea8b14f19934bbf8c5b645cf662167c6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/mariomartins/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/6125a8ab5b2d4bdf464b0c02f9acb230/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/mariomartins/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/cc5181454480268b69615b728e9d0cf5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/mariomartins/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/87e66665d3584575de52934eaa21c4ad/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/mariomartins/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/63ace951a8cfca6f2791d51e23cfb67c/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/mariomartins/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/832f285ba00d1360e6b0a8f8de8ecc48/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/mariomartins/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/6f44d1245baa51636453f77cb1b56bb1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/mariomartins/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/6231e29ed28ca5817ffa12e703965bf2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/mariomartins/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/fecbdad16ca53628db4538170936ed67/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/mariomartins/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/8c659aee87672d5965091f582a3c4edb/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/mariomartins/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/7a09cd7628046c427b3c0a64d8407c9f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/mariomartins/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/bf5d885cbeaa9f922ec8ba0ade6b6811/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/mariomartins/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/a45e611b2a5587802f9742afd80e02b2/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/mariomartins/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/2c15c75dd9f2f49978228bb9ef6870df/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/mariomartins/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/4c590878d1d9fb6d280b58a7c94ec3e4/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/mariomartins/Documents/workspace-Android/SecurityCliente/app/src/main/AndroidManifest.xml:2:1-54:12
+INJECTED from /Users/mariomartins/Documents/workspace-Android/SecurityCliente/app/src/main/AndroidManifest.xml:2:1-54:12
+INJECTED from /Users/mariomartins/Documents/workspace-Android/SecurityCliente/app/src/main/AndroidManifest.xml:2:1-54:12
+	package
+		ADDED from /Users/mariomartins/Documents/workspace-Android/SecurityCliente/app/src/main/AndroidManifest.xml:3:5-49
+		INJECTED from /Users/mariomartins/Documents/workspace-Android/SecurityCliente/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mariomartins/Documents/workspace-Android/SecurityCliente/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/mariomartins/Documents/workspace-Android/SecurityCliente/app/src/main/AndroidManifest.xml:5:5-35
+		INJECTED from /Users/mariomartins/Documents/workspace-Android/SecurityCliente/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mariomartins/Documents/workspace-Android/SecurityCliente/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/mariomartins/Documents/workspace-Android/SecurityCliente/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/mariomartins/Documents/workspace-Android/SecurityCliente/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/mariomartins/Documents/workspace-Android/SecurityCliente/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mariomartins/Documents/workspace-Android/SecurityCliente/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/mariomartins/Documents/workspace-Android/SecurityCliente/app/src/main/AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from /Users/mariomartins/Documents/workspace-Android/SecurityCliente/app/src/main/AndroidManifest.xml:7:22-76
+uses-permission#android.permission.INTERNET
+ADDED from /Users/mariomartins/Documents/workspace-Android/SecurityCliente/app/src/main/AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from /Users/mariomartins/Documents/workspace-Android/SecurityCliente/app/src/main/AndroidManifest.xml:8:22-64
+application
+ADDED from /Users/mariomartins/Documents/workspace-Android/SecurityCliente/app/src/main/AndroidManifest.xml:10:5-52:19
+MERGED from [com.android.volley:volley:1.1.1] /Users/mariomartins/.gradle/caches/transforms-1/files-1.1/volley-1.1.1.aar/5d02714166d8b1ec939cf102045be0a1/AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.1] /Users/mariomartins/.gradle/caches/transforms-1/files-1.1/volley-1.1.1.aar/5d02714166d8b1ec939cf102045be0a1/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/mariomartins/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/ff46f5c46bfab137eab3a57d07c09d48/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/mariomartins/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/ff46f5c46bfab137eab3a57d07c09d48/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/mariomartins/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/87e66665d3584575de52934eaa21c4ad/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/mariomartins/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/87e66665d3584575de52934eaa21c4ad/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/mariomartins/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/63ace951a8cfca6f2791d51e23cfb67c/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/mariomartins/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/63ace951a8cfca6f2791d51e23cfb67c/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/mariomartins/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/87e66665d3584575de52934eaa21c4ad/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/mariomartins/Documents/workspace-Android/SecurityCliente/app/src/main/AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from /Users/mariomartins/Documents/workspace-Android/SecurityCliente/app/src/main/AndroidManifest.xml:14:9-41
+	android:icon
+		ADDED from /Users/mariomartins/Documents/workspace-Android/SecurityCliente/app/src/main/AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from /Users/mariomartins/Documents/workspace-Android/SecurityCliente/app/src/main/AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from /Users/mariomartins/Documents/workspace-Android/SecurityCliente/app/src/main/AndroidManifest.xml:16:9-40
+	android:usesCleartextTraffic
+		ADDED from /Users/mariomartins/Documents/workspace-Android/SecurityCliente/app/src/main/AndroidManifest.xml:17:9-44
+	android:name
+		ADDED from /Users/mariomartins/Documents/workspace-Android/SecurityCliente/app/src/main/AndroidManifest.xml:11:9-73
+activity#br.com.security.cliente.activities.SplashScreenActivity
+ADDED from /Users/mariomartins/Documents/workspace-Android/SecurityCliente/app/src/main/AndroidManifest.xml:19:9-30:20
+	android:label
+		ADDED from /Users/mariomartins/Documents/workspace-Android/SecurityCliente/app/src/main/AndroidManifest.xml:21:13-37
+	android:theme
+		ADDED from /Users/mariomartins/Documents/workspace-Android/SecurityCliente/app/src/main/AndroidManifest.xml:22:13-55
+	android:name
+		ADDED from /Users/mariomartins/Documents/workspace-Android/SecurityCliente/app/src/main/AndroidManifest.xml:20:13-83
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/mariomartins/Documents/workspace-Android/SecurityCliente/app/src/main/AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from /Users/mariomartins/Documents/workspace-Android/SecurityCliente/app/src/main/AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from /Users/mariomartins/Documents/workspace-Android/SecurityCliente/app/src/main/AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/mariomartins/Documents/workspace-Android/SecurityCliente/app/src/main/AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from /Users/mariomartins/Documents/workspace-Android/SecurityCliente/app/src/main/AndroidManifest.xml:27:27-74
+activity#br.com.security.cliente.activities.LoginActivity
+ADDED from /Users/mariomartins/Documents/workspace-Android/SecurityCliente/app/src/main/AndroidManifest.xml:32:9-34:40
+	android:label
+		ADDED from /Users/mariomartins/Documents/workspace-Android/SecurityCliente/app/src/main/AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from /Users/mariomartins/Documents/workspace-Android/SecurityCliente/app/src/main/AndroidManifest.xml:33:13-76
+activity#br.com.security.cliente.activities.CheckSMS
+ADDED from /Users/mariomartins/Documents/workspace-Android/SecurityCliente/app/src/main/AndroidManifest.xml:36:9-38:47
+	android:label
+		ADDED from /Users/mariomartins/Documents/workspace-Android/SecurityCliente/app/src/main/AndroidManifest.xml:38:13-44
+	android:name
+		ADDED from /Users/mariomartins/Documents/workspace-Android/SecurityCliente/app/src/main/AndroidManifest.xml:37:13-71
+activity#br.com.security.cliente.activities.DashboardActivity
+ADDED from /Users/mariomartins/Documents/workspace-Android/SecurityCliente/app/src/main/AndroidManifest.xml:40:9-42:56
+	android:theme
+		ADDED from /Users/mariomartins/Documents/workspace-Android/SecurityCliente/app/src/main/AndroidManifest.xml:42:13-53
+	android:name
+		ADDED from /Users/mariomartins/Documents/workspace-Android/SecurityCliente/app/src/main/AndroidManifest.xml:41:13-80
+service#br.com.security.cliente.syncronizable.SyncService
+ADDED from /Users/mariomartins/Documents/workspace-Android/SecurityCliente/app/src/main/AndroidManifest.xml:44:9-46:46
+	android:enabled
+		ADDED from /Users/mariomartins/Documents/workspace-Android/SecurityCliente/app/src/main/AndroidManifest.xml:46:13-35
+	android:name
+		ADDED from /Users/mariomartins/Documents/workspace-Android/SecurityCliente/app/src/main/AndroidManifest.xml:45:13-77
+uses-library#org.apache.http.legacy
+ADDED from /Users/mariomartins/Documents/workspace-Android/SecurityCliente/app/src/main/AndroidManifest.xml:48:9-50:40
+	android:required
+		ADDED from /Users/mariomartins/Documents/workspace-Android/SecurityCliente/app/src/main/AndroidManifest.xml:50:13-37
+	android:name
+		ADDED from /Users/mariomartins/Documents/workspace-Android/SecurityCliente/app/src/main/AndroidManifest.xml:49:13-50
+uses-sdk
+INJECTED from /Users/mariomartins/Documents/workspace-Android/SecurityCliente/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/mariomartins/Documents/workspace-Android/SecurityCliente/app/src/main/AndroidManifest.xml
+INJECTED from /Users/mariomartins/Documents/workspace-Android/SecurityCliente/app/src/main/AndroidManifest.xml
+MERGED from [com.android.volley:volley:1.1.1] /Users/mariomartins/.gradle/caches/transforms-1/files-1.1/volley-1.1.1.aar/5d02714166d8b1ec939cf102045be0a1/AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.1] /Users/mariomartins/.gradle/caches/transforms-1/files-1.1/volley-1.1.1.aar/5d02714166d8b1ec939cf102045be0a1/AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/mariomartins/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/7cb87d165e4882b20d14966e9bd15197/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/mariomartins/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/7cb87d165e4882b20d14966e9bd15197/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/mariomartins/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/ff46f5c46bfab137eab3a57d07c09d48/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/mariomartins/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/ff46f5c46bfab137eab3a57d07c09d48/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/mariomartins/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/cefc2434f40468a132e3e56dd5c302ee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/mariomartins/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/cefc2434f40468a132e3e56dd5c302ee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/mariomartins/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/8d783f7620c6bd4b06ce209c0fd5e298/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/mariomartins/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/8d783f7620c6bd4b06ce209c0fd5e298/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/mariomartins/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/e139c6aaf46e31ccb4b9da3986ffade7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/mariomartins/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/e139c6aaf46e31ccb4b9da3986ffade7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/mariomartins/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/2bc9d41d1c04198ffeeeb04db932eb57/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/mariomartins/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/2bc9d41d1c04198ffeeeb04db932eb57/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/mariomartins/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/bb16d61ce924f7999e0755bd59dee928/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/mariomartins/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/bb16d61ce924f7999e0755bd59dee928/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/mariomartins/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/29699fe652f7b2bb4b91015295fb25f5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/mariomartins/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/29699fe652f7b2bb4b91015295fb25f5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/mariomartins/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/f0a981fa0316df439cadf4bdec8919b2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/mariomartins/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/f0a981fa0316df439cadf4bdec8919b2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/mariomartins/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/f9a498e4cd63914f570415e3ab538fd6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/mariomartins/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/f9a498e4cd63914f570415e3ab538fd6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/mariomartins/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/4afd10f6e3fc29e5e0863ae9b1ac83de/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/mariomartins/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/4afd10f6e3fc29e5e0863ae9b1ac83de/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/mariomartins/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/f904d48a723a2323cf3818d7ab12bd27/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/mariomartins/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/f904d48a723a2323cf3818d7ab12bd27/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/mariomartins/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/bed348519aafc428010e9f157c1027fd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/mariomartins/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/bed348519aafc428010e9f157c1027fd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/mariomartins/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/35fc3e42b292d81ee3e0b7c56de12d3e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/mariomartins/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/35fc3e42b292d81ee3e0b7c56de12d3e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/mariomartins/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/ea8b14f19934bbf8c5b645cf662167c6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/mariomartins/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/ea8b14f19934bbf8c5b645cf662167c6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/mariomartins/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/6125a8ab5b2d4bdf464b0c02f9acb230/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/mariomartins/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/6125a8ab5b2d4bdf464b0c02f9acb230/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/mariomartins/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/cc5181454480268b69615b728e9d0cf5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/mariomartins/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/cc5181454480268b69615b728e9d0cf5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/mariomartins/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/87e66665d3584575de52934eaa21c4ad/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/mariomartins/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/87e66665d3584575de52934eaa21c4ad/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/mariomartins/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/63ace951a8cfca6f2791d51e23cfb67c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/mariomartins/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/63ace951a8cfca6f2791d51e23cfb67c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/mariomartins/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/832f285ba00d1360e6b0a8f8de8ecc48/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/mariomartins/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/832f285ba00d1360e6b0a8f8de8ecc48/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/mariomartins/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/6f44d1245baa51636453f77cb1b56bb1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/mariomartins/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/6f44d1245baa51636453f77cb1b56bb1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/mariomartins/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/6231e29ed28ca5817ffa12e703965bf2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/mariomartins/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/6231e29ed28ca5817ffa12e703965bf2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/mariomartins/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/fecbdad16ca53628db4538170936ed67/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/mariomartins/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/fecbdad16ca53628db4538170936ed67/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/mariomartins/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/8c659aee87672d5965091f582a3c4edb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/mariomartins/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/8c659aee87672d5965091f582a3c4edb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/mariomartins/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/7a09cd7628046c427b3c0a64d8407c9f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/mariomartins/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/7a09cd7628046c427b3c0a64d8407c9f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/mariomartins/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/bf5d885cbeaa9f922ec8ba0ade6b6811/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/mariomartins/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/bf5d885cbeaa9f922ec8ba0ade6b6811/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/mariomartins/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/a45e611b2a5587802f9742afd80e02b2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/mariomartins/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/a45e611b2a5587802f9742afd80e02b2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/mariomartins/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/2c15c75dd9f2f49978228bb9ef6870df/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/mariomartins/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/2c15c75dd9f2f49978228bb9ef6870df/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/mariomartins/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/4c590878d1d9fb6d280b58a7c94ec3e4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/mariomartins/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/4c590878d1d9fb6d280b58a7c94ec3e4/AndroidManifest.xml:20:5-44
+INJECTED from /Users/mariomartins/Documents/workspace-Android/SecurityCliente/app/src/main/AndroidManifest.xml
+INJECTED from /Users/mariomartins/Documents/workspace-Android/SecurityCliente/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/mariomartins/Documents/workspace-Android/SecurityCliente/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mariomartins/Documents/workspace-Android/SecurityCliente/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mariomartins/Documents/workspace-Android/SecurityCliente/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/mariomartins/Documents/workspace-Android/SecurityCliente/app/src/main/AndroidManifest.xml
+		ADDED from /Users/mariomartins/Documents/workspace-Android/SecurityCliente/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mariomartins/Documents/workspace-Android/SecurityCliente/app/src/main/AndroidManifest.xml

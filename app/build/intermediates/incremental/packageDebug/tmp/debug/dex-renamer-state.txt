@@ -1,0 +1,4 @@
+#Thu Jul 04 16:59:08 BRT 2019
+base.0=/Users/mariomartins/Documents/workspace-Android/SecurityCliente/app/build/intermediates/dex/debug/mergeDexDebug/out
+path.0=classes.dex
+renamed.0=classes.dex
